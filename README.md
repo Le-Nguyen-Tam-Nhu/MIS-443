@@ -35,5 +35,3 @@ Each option is analyzed to understand how much data would need to be provisioned
 ## Conclusion
 This project demonstrates the application of SQL in analyzing customer data, understanding transaction patterns, and exploring different methods of data allocation. By deriving insights from the analysis, this report provides valuable recommendations for improving operational efficiency and customer engagement in Data Bank.
 
-## Installation & Usage
-1. Clone the repository:
